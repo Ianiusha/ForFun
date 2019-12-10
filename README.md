@@ -15,4 +15,4 @@ To run the notebook, you need to download the following files into the same dire
  - matplotlib (for plotting)
  - wordcloud (for creating wordcloud graphics)
  
- The recommnender system as it is implemented right now will search for the keyword provided in the title of the wines and output the FIRST hit. You can easy change the code to output all hits ;)
+ The recommender system as it is implemented right now will search for the keyword provided in the title of the wines and output the FIRST hit. You can easy change the code to output all hits ;)
